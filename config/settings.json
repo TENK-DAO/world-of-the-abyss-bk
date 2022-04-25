@@ -1,15 +1,16 @@
 {
-  "author": "@TenKBay",
-  "siteUrl": "https://tenkbay.com",
-  "contractName": "v2.tenk.testnet",
+  "author": "@wotaverse",
+  "siteUrl": "https://tenk-dao.github.io/world-of-the-abyss",
+  "contractName": "wota.tenk.testnet",
+  "image": "banner.png",
   "social": [
     {
-      "href": "https://discord.com/invite/UY9Xf2k",
+      "href": "https://dsc.gg/wotaverse",
       "img":  "discord.svg",
       "alt": "Discord"
     },
     {
-      "href": "https://twitter.com/TenKBay",
+      "href": "https://twitter.com/wotaverse",
       "img":  "twitter.svg",
       "alt": "Twitter"
     }

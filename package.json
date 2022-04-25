@@ -1,7 +1,7 @@
 {
-  "name": "frontend-starter",
+  "name": "world-of-the-abyss",
   "private": true,
-  "description": "Template for NFT Launches on TenK",
+  "description": "Minting page for World Of The Abyss NFTs",
   "version": "0.1.0",
   "author": "Chad Ostrowski <chad@ahalabs.dev>",
   "dependencies": {

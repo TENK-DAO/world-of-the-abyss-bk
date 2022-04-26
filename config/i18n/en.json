@@ -2,7 +2,7 @@
   "viewIn": "View in English",
   "langPicker": "English",
   "title": "World of the Abyss",
-  "description": "The 1st Real Oldskool Hardcore #MMORPG for Android/iOS. PC-level PvP & PvE Fun powered by #NEARProtocol Blockchain. #P2E #NFT",
+  "description": "The First Real no-autoplay MMORPG for Mobile powered by NEAR Protocol Blockchain, NFT & Play2Earn.",
   "calendarEvent": "Go Mint an NFT!",
   "connectWallet": "Login with NEAR",
   "signOut": "Sign Out",
@@ -14,33 +14,13 @@
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
   "hero": {
-    "image": "ChestAll.gif",
+    "image": "DarkPrinceChest.png",
     "title": "NFTs drop at SALE_START!",
     "body": "the Real Mobile MMORPG",
-    "ps": "Want early access? Sign in.",
+    "ps": "WOTA's most powerful chests, powered by NFTs.",
     "remaining": "Remaining: REMAINING_COUNT",
     "cta": "Add to Calendar",
     "action": "ADD_TO_CALENDAR(SALE_START)",
-    "saleClosed": {
-      "signedIn": {
-        "ps": "Pre-mint start: PRESALE_START\n\nJoin the whitelist! [Join our Discord](https://dsc.gg/wotaverse) and request an invite."
-      },
-      "vip": {
-        "title": "Welcome, CURRENT_USER!",
-        "ps": "Pre-mint start: PRESALE_START",
-        "action": "ADD_TO_CALENDAR(PRESALE_START)"
-      }
-    },
-    "presale": {
-      "vip": {
-        "title": "Pre-mint started!",
-        "body": "Public minting starts at SALE_START",
-        "ps": "Your remaining pre-mint allowance: MINT_LIMIT",
-        "setNumber": "Number to mint",
-        "cta": "Mint for MINT_PRICE",
-        "action": "MINT"
-      }
-    },
     "saleOpen": {
       "title": "Minting has begun!",
       "ps": "",
@@ -62,8 +42,37 @@
   "extraSections": [
     {
       "className": "lead",
-      "text": "# Introducing World of the Abyss\n\nThis is a longer description of the project. About a paragraph long. Some [filler text](https://placehodler.shapelabs.co/) to demonstrate: Token standard surrendered some burned mnemonic phrase until some wallet because blockchain detected many pre-mine. It based on many automated token generation event, and when Tether formed some trustless in the FUD, Dogecoin slept on lots of anti-money laundering of many stale block!\n\nSolidity limited lots of reinvested distributed denial of service attack! ICO specialises in lots of lightning fast private chain since Zilliqa surrendered few reinvested cryptocurrency, however, because someone limited few provably fiat until the vanity address, Augur stuck many burned pre-mine. They sharded many technical analysis, or NFT specialises in the FOMO in few wash trade.",
-      "image": "axe.png"
+      "text": "# Introducing World of the Abyss\n\nThe First Real no-auto-battle MMORPG for Mobile powered by NEAR Protocol Blockchain, NFT & Play2Earn.\n\nAs part of this NFT mint, 120 very valuable Black Prince Chest NFTs containing a standard, rare, unique, epic, or legendary item of any grade will be available to be opened and used in the game on the global release date. Other types of chests will be available at a higher price and in smaller quantities at a later date",
+      "image": "Bersercs.webp"
+    },
+    {
+      "className": "about-chests",
+      "image": "chests-wide.png",
+      "text": "# NFT Chests\n\nThere will be 5 types of very precious NFT Chests (loot boxes). Having purchased the NFT Chest at mint, you will receive a NEAR NFT representing this particular chest.\n\n## How to use?\n\nAny chest can be opened in the game at Global Launch date or re-sold anytime on Paras Marketplace now or in-game p2p NFT Market later.\n\n## Why buy now?\n\nNFT Chests pre-sale amounts will be limited to the drops stated in Roadmap. Every next pre-sale, the price of previous unsold chests (if there are any) will be increased. A new type of greater chests will be added every next presale. We are planning to complete all pre-sales before Global Launch, so the only way to obtain NFT Chests after Global Launch  will be to buy them from other people on the secondary market.\n\nNFT- items obtained from the Chests would be much more expensive after the game release date, as well as other NFT-items in the game, due  to their unique performance characteristics and limited supply."
+    },
+    {
+      "className": "whats-inside",
+      "image": "dragon.png",
+      "text": "# What's inside the chests?\n\nEvery NFT Chest contains one random Legendary, Epic, Unique or Rare NFT-item of different grades e.g. Weapons, Armors, Jewelry, etc.\n\nNFT-items are unique items with special performance characteristics that can not loot from players when they get killed and are also indestructible, belonging to the players even outside the game as stored on the NEAR Blockchain."
+    },
+    {
+      "className": "roadmap",
+      "backgroundImage": "coins.png",
+      "text": "# NFT ROAD MAP\n\n* **27.04.2022**: the first pre-sale of the *DarkPrince* chests with such weapons as Axes, Hammers, Bows, Magic Staff and Dual Swords.\n* **11.05.2022**: pre-sale of the *Ice Demon* chests with the same weapons as above and the *Mystery* chests with all the weapons.\n* **18.05.2022**: pre-sale of the *Dragon* and the *King's* chests with all the weapons.\n* **24.05.2022**: pre-sale of the *King's* chests with all the weapons.\n\n## Soft Launch 01.06.22\n\n* **12.09.2022**: sale of *all* the chests with armor sets (heavy, light, robe).\n* **21.09.2022**: sale of *all* the weapons and armors in one copy.\n* **04.10.2022**: sale of all *shields* and *jewelry* in one copy.\n* **20.12.2022**: sale of the *plots of land*.\n\n## Global release 26.12.22"
+    },
+    {
+      "className": "core-team",
+      "text": "# Core Team",
+      "blocks": [{
+        "image": "maksym.webp",
+        "text": "### Maksym Bondarenko  \n### CO-FOUNDER, CEO\n\nIT Entrepreneur  \n8+ mobile games development,  \n3D design & animation\n\n4+ mobile marketing &  \nTV-advertisement experience\n\nFounder & CEO  of Mad Moil Co  \n(2 years in AR/VR sphere)"
+      }, {
+        "image": "ilya.webp",
+        "text": "### Ilya Kulebyakin  \n### CO-FOUNDER, Bizdev\n\nSerial Entrepreneur\n\n13+ years of business  \ndevelopment experience in various areas\n\n3+ years of management,  \nmarketing, production &  \nevents organization  \nexperience at TastySound  \nmusic record-label\n\n3+ years of online community  \nmanagement & PR experience"
+      }, {
+        "image": "yury.webp",
+        "text": "### Yury Shtepo  \n### CO-FOUNDER, CFO\n\n20+ years of entrepreneurial and corporate experience in various areas:  project & ops management, finance, business consulting\n\nDeveloped business & financial models and consulted for multiple companies and start-ups\n\nLaunched companies in the areas of manufacturing, business services and online therapy."
+      }]
     }
   ]
 }

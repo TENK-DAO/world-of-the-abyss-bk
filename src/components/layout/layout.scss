@@ -53,36 +53,20 @@ $accent: #e73b93 !default;
   --black: #{$black};
   --accent: #{$accent};
 
-  --fg: var(--white);
   --bg: var(--black);
+  --fg: var(--white);
 
-  --gray-1: #{adjust-color($black, $alpha: -0.9)};
-  --gray-2: #{adjust-color($black, $alpha: -0.8)};
-  --gray-3: #{adjust-color($black, $alpha: -0.7)};
-  --gray-4: #{adjust-color($black, $alpha: -0.6)};
-  --gray-5: #{adjust-color($black, $alpha: -0.5)};
-  --gray-6: #{adjust-color($black, $alpha: -0.4)};
-  --gray-7: #{adjust-color($black, $alpha: -0.3)};
-  --gray-8: #{adjust-color($black, $alpha: -0.2)};
-  --gray-9: #{adjust-color($black, $alpha: -0.1)};
+  --gray-1: #{adjust-color($white, $alpha: -0.9)};
+  --gray-2: #{adjust-color($white, $alpha: -0.8)};
+  --gray-3: #{adjust-color($white, $alpha: -0.7)};
+  --gray-4: #{adjust-color($white, $alpha: -0.6)};
+  --gray-5: #{adjust-color($white, $alpha: -0.5)};
+  --gray-6: #{adjust-color($white, $alpha: -0.4)};
+  --gray-7: #{adjust-color($white, $alpha: -0.3)};
+  --gray-8: #{adjust-color($white, $alpha: -0.2)};
+  --gray-9: #{adjust-color($white, $alpha: -0.1)};
 
-  --red: #fc5b5b;
-  @media (prefers-color-scheme: dark) {
-    --bg: var(--black);
-    --fg: var(--white);
-
-    --gray-1: #{adjust-color($white, $alpha: -0.9)};
-    --gray-2: #{adjust-color($white, $alpha: -0.8)};
-    --gray-3: #{adjust-color($white, $alpha: -0.7)};
-    --gray-4: #{adjust-color($white, $alpha: -0.6)};
-    --gray-5: #{adjust-color($white, $alpha: -0.5)};
-    --gray-6: #{adjust-color($white, $alpha: -0.4)};
-    --gray-7: #{adjust-color($white, $alpha: -0.3)};
-    --gray-8: #{adjust-color($white, $alpha: -0.2)};
-    --gray-9: #{adjust-color($white, $alpha: -0.1)};
-
-    --red: #ff8588;
-  }
+  --red: #ff8588;
 }
 
 @function light($color) {

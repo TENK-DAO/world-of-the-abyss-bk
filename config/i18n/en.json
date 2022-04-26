@@ -14,7 +14,7 @@
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
   "hero": {
-    "image": "ChestAll.gif",
+    "image": "ChestOpen.gif",
     "title": "NFTs drop at SALE_START!",
     "body": "the Real Mobile MMORPG",
     "ps": "WOTA's most powerful chests, powered by NFTs.",
@@ -52,7 +52,7 @@
     },
     {
       "className": "whats-inside",
-      "image": "ChestOpen.gif",
+      "image": "ChestAll.gif",
       "text": "# What's inside the chests?\n\nEvery NFT Chest contains one random Legendary, Epic, Unique or Rare NFT item of different grades e.g. Weapons, Armors, Jewelry, etc.\n\nNFT items are unique items with special performance characteristics that cannot loot from players when they get killed and are also indestructible, belonging to the players even outside the game as stored on the NEAR Blockchain."
     },
     {

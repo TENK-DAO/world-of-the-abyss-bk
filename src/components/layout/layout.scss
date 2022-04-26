@@ -53,8 +53,8 @@ $accent: #e73b93 !default;
   --black: #{$black};
   --accent: #{$accent};
 
-  --fg: var(--black);
-  --bg: var(--white);
+  --fg: var(--white);
+  --bg: var(--black);
 
   --gray-1: #{adjust-color($black, $alpha: -0.9)};
   --gray-2: #{adjust-color($black, $alpha: -0.8)};

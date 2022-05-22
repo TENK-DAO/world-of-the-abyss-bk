@@ -54,25 +54,6 @@
       "className": "whats-inside",
       "image": "ChestOpen.gif",
       "text": "# What's inside the chests?\n\nEvery NFT Chest contains one random Legendary, Epic, Unique or Rare NFT item of different grades e.g. Weapons, Armor, Jewelry, etc.\n\nNFT items are unique items with special performance characteristics that cannot loot from players when they get killed and are also indestructible, belonging to the players even outside the game as stored on the NEAR Blockchain."
-    },
-    {
-      "className": "roadmap",
-      "backgroundImage": "coins.png",
-      "text": "# NFT ROAD MAP\n\n* **27.04.2022**: the first pre-sale of the *DarkPrince* chests with such weapons as Axes, Hammers, Bows, Magic Staff and Dual Swords.\n* **11.05.2022**: pre-sale of the *Ice Demon* chests with the same weapons as above and the *Mystery* chests with all the weapons.\n* **18.05.2022**: pre-sale of the *Dragon* and the *King's* chests with all the weapons.\n* **24.05.2022**: pre-sale of the *King's* chests with all the weapons.\n\n## Soft Launch 01.06.22\n\n* **12.09.2022**: sale of *all* the chests with armor sets (heavy, light, robe).\n* **21.09.2022**: sale of *all* the weapons and armors in one copy.\n* **04.10.2022**: sale of all *shields* and *jewelry* in one copy.\n* **20.12.2022**: sale of the *plots of land*.\n\n## Global release 26.12.22"
-    },
-    {
-      "className": "core-team",
-      "text": "# Core Team",
-      "blocks": [{
-        "image": "maksym.webp",
-        "text": "### Maksym Bondarenko  \n### CO-FOUNDER, CEO\n\nIT Entrepreneur  \n8+ mobile games development,  \n3D design & animation\n\n4+ mobile marketing &  \nTV-advertisement experience\n\nFounder & CEO  of Mad Moil Co  \n(2 years in AR/VR sphere)"
-      }, {
-        "image": "ilya.webp",
-        "text": "### Ilya Kulebyakin  \n### CO-FOUNDER, Bizdev\n\nSerial Entrepreneur\n\n13+ years of business  \ndevelopment experience in various areas\n\n3+ years of management,  \nmarketing, production &  \nevents organization  \nexperience at TastySound  \nmusic record-label\n\n3+ years of online community  \nmanagement & PR experience"
-      }, {
-        "image": "yury.webp",
-        "text": "### Yury Shtepo  \n### CO-FOUNDER, CFO\n\n20+ years of entrepreneurial and corporate experience in various areas:  project & ops management, finance, business consulting\n\nDeveloped business & financial models and consulted for multiple companies and start-ups\n\nLaunched companies in the areas of manufacturing, business services and online therapy."
-      }]
     }
   ]
 }

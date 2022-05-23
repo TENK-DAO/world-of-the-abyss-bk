@@ -10,44 +10,10 @@ $accent: rgb(185, 123, 67);
  * You can add any other styles below
  */
 .lead h1,
-.roadmap h1,
-.roadmap h2,
 .about-chests h1 {
   color: $accent;
 }
 
-.roadmap em {
-  color: $accent;
-  font-weight: var(--fw-regular);
-}
-
 .about-chests .container > * {
   flex-direction: column-reverse;
-}
-
-.core-team .grid {
-  font-size: 0.75em;
-  gap: var(--spacing-xxl);
-  grid-template-columns: 1fr 1fr 1fr;
-
-  @media (min-width: 800px) {
-    padding: var(--spacing-xxl);
-  }
-
-  @media (max-width: 500px) {
-    grid-template-columns: 1fr;
-
-    &>* {
-      flex-direction: row;
-    }
-
-    .image {
-      flex: 0 0 133px;
-      height: 133px;
-    }
-
-    .text {
-      flex: 1;
-    }
-  }
 }
